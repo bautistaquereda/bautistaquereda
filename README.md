@@ -4,7 +4,9 @@
 
 <br>
 
-<img src="assets/about.svg" width="100%" alt="Stack: Java, Spring Boot, Spring Security, Spring Cloud, Node.js, Express, Go, RabbitMQ, OAuth 2.0 / Keycloak, MySQL, MongoDB, AWS, Kubernetes, Jenkins, Argo CD, CI/CD, Postman, RestAssured, Git. Ongoing: back-end projects with Java, Spring Boot and microservices. Education: Digital House (Professional Developer, Back-End Developer), UTN, EF SET English C2.">
+<a href="https://bautistaquereda.dev/#about">
+  <img src="assets/about.svg" width="100%" alt="Stack: Java, Spring Boot, Spring Security, Spring Cloud, Node.js, Express, Go, RabbitMQ, OAuth 2.0 / Keycloak, MySQL, MongoDB, AWS, Kubernetes, Jenkins, Argo CD, CI/CD, Postman, RestAssured, Git. Ongoing: back-end projects with Java, Spring Boot and microservices. Education: Digital House (Professional Developer, Back-End Developer), UTN, EF SET English C2.">
+</a>
 
 <p>
   <a href="https://bautistaquereda.dev"><img src="assets/btn-web.svg" height="42" alt="[ $ open bautistaquereda.dev ]"></a>&nbsp;
